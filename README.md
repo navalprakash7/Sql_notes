@@ -1,2 +1,2 @@
-SQL
+SQL:
 net start MySQL80
